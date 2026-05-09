@@ -77,7 +77,7 @@ export default function Landing() {
               className="text-center"
             >
               <h1 className="font-display text-[15vw] md:text-[12vw] leading-[0.85] tracking-tighter text-silver glitch-text select-none">
-                <GlitchText text="VHS" as="span" />
+                <GlitchText text="Faded in" as="span" />
                 <br />
                 <GlitchText text="OSAKA" as="span" />
               </h1>
